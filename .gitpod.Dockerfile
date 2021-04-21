@@ -1,1 +1,1 @@
-FROM visualsolana/workspace:latest
+FROM visualsolana/workspace:0.1.0
